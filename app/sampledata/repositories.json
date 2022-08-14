@@ -1,0 +1,148 @@
+{
+  "data": [
+    {
+      "id": 49960027,
+      "name": "apiCollection",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/RaykarFran/apiCollection",
+      "description": "Teste Criação De Array"
+    },
+    {
+      "id": 482509048,
+      "name": "aula_bootstrap",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/aula_bootstrap",
+      "description": "Utilizando Bootstrap",
+      "stargazers_count": 0,
+      "language": "JavaScript,CSS,HTML"
+    },
+    {
+      "id": 524675496,
+      "name": "BusinessCard",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/BusinessCard",
+      "description": "Cartao de Visitas Dio",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 487341513,
+      "name": "Covid19-dio",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Covid19-dio",
+      "description": "empty description",
+      "stargazers_count": 0,
+      "language": "JavaScript,HTML"
+    },
+    {
+      "id": 481767759,
+      "name": "Dio-desafio-Github--primeiro-repositorio",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Dio-desafio-Github--primeiro-repositorio",
+      "description": "desafio de projeto sobre Git/Github",
+      "stargazers_count": 3,
+      "language": "Empty"
+    },
+    {
+      "id": 504917344,
+      "name": "Formula1-news-api",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Formula1-news-api",
+      "description": "API (Provida via GitHurb Pages) do App \\\"Formula1-news-app\\",
+      "stargazers_count": 4,
+      "language": "Empty"
+    },
+    {
+      "id": 504862220,
+      "name": "Formula1-news-app",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Formula1-news-app",
+      "description": "App nativo android de noticias relacionadas a Formula1(Corrida)",
+      "stargazers_count": 2,
+      "language": "Java"
+    },
+    {
+      "id": 500978857,
+      "name": "Matches-simulator-api",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Matches-simulator-api",
+      "description": "repositório que simula uma API REST para obtenção de partidas",
+      "stargazers_count": 2,
+      "language": "Empty"
+    },
+    {
+      "id": 499895117,
+      "name": "matches-simulator-app",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/matches-simulator-app",
+      "description": "App android nativo de simulação de partidas",
+      "stargazers_count": 5,
+      "language": "Kotlin,Java"
+    },
+    {
+      "id": 479823794,
+      "name": "RaykarFran/meuRepo",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/meuRepo",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "empty"
+    },
+    {
+      "id": 481958006,
+      "name": "Ola-Mundo-Desafio",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Ola-Mundo-Desafio",
+      "description": "empty description",
+      "stargazers_count": 1,
+      "language": "java"
+    },
+    {
+      "id": 482549079,
+      "name": "Projeto-site-game",
+      "owner": {
+        "login": "RaykarFran",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103332859?v=4"
+      },
+      "html_url": "https://github.com/RaykarFran/Projeto-site-game",
+      "description": "Projeto-Dio Recriando Interface",
+      "stargazers_count": 5,
+      "language": "JavaScript, HTML,Css"
+    }
+  ]
+}
